@@ -76,7 +76,3 @@ Feel free to customize the web application's appearance, add more disease predic
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and use the code for both personal and commercial purposes.
