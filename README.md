@@ -14,7 +14,6 @@ This project provides a streamlit web application for predicting multiple diseas
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -38,7 +37,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaadclt/Multiple-Disease-Prediction-System.git
+https://github.com/KotaVenkataVamshidharreddy/Multiple-Disease-Prediction-System.git
 ```
 
 2. Install the required dependencies by running:
@@ -73,6 +72,4 @@ streamlit run multiplediseaseprediction.py
 
 Feel free to customize the web application's appearance, add more disease prediction models, or integrate additional features based on your specific requirements.
 
-## Contributing
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
